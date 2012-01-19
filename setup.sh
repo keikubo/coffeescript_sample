@@ -7,3 +7,5 @@ gem install guard-coffeescript --no-ri --no-rdoc
 gem install rb-fsevent --no-ri --no-rdoc
 
 guard
+
+ls $HOME/.gem/ruby/1.9.1/bin
